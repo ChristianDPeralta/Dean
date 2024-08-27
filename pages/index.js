@@ -11,13 +11,13 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
 
       
-      <p>Hi Im Christian Dean I'm a Future Software Engineer</p>
+      <p>Hi Im Christian Dean I'm a Future Software Engineer.</p>
         <hr></hr>
         <p>I like Playing Badminton and Playing Video Games.</p>
-        <p>My favorite Food is Lenggwa
+        <p>My favorite Food is Lenggwa.
 </p>
-<p>I took It Course because it is one of my choice</p>
-<p>I expect to Learn on How to Code the Basics of Programming</p>
+<p>I took It Course because it is one of my choice.</p>
+<p>I expect to Learn on How to Code the Basics of Programming.</p>
 <hr></hr>
         
         <p>
