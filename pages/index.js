@@ -11,8 +11,8 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
       <p>Hi Im Christian Dean I'm a Future Software Engineer</p>
         <hr></hr>
-        <p>I like Playing Badminton and Playing Video Games.
-          My favorite Food is Lenggwa
+        <p>I like Playing Badminton and Playing Video Games.</p>
+        <p>My favorite Food is Lenggwa
 </p>
 <br></br>
 <p>I took It Course because it is one of my choice</p>
